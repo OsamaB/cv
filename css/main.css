@@ -79,6 +79,10 @@ body {
 			border-collapse: collapse;
 			background-color: hsla(150, 30%, 50%, 0.7);
 			border-radius: 10px;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			margin-right: auto;
+			margin-left: auto;
 		}
 		.tables{
 			position: absolute;
