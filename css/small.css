@@ -1,0 +1,65 @@
+body {
+			background-size: 100% 100%;
+		}
+		.main{
+			min-width: 0;
+			margin-top: 0;
+		}
+		.section{
+			border-radius: 5px;
+    		margin-left: auto;
+    		margin-right: auto;
+		}
+		#my-name{
+			border-radius: 5px;
+			width: 40%;
+		}
+		.picture{
+			transition: none;
+		}
+		#about-me{
+			width: 40%;
+		}
+		.tables{
+			position: static;
+			width: 80%;
+    		margin-left: auto;
+    		margin-right: auto;
+    		padding-left: auto;
+    		padding-right: auto;
+		}
+		.left{
+			position: static;
+			width: 80%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		#future{
+			position: static;
+			width: auto;
+		}
+		#contact{
+			min-width: 225px;
+			font-size: 100%;
+			width: 25%;
+			text-align: left;
+			overflow-wrap: break-word;
+		}
+		 h3{
+			border-radius: 5px;
+		}
+		table{
+			border-radius: 5px;
+		}
+		tr{
+			background-color: hsla(200, 60%, 60%, 0.8);
+		}
+		tr.alt{
+			background-color: hsla(200, 60%, 60%, 0.7);
+		}
+		#footer{
+			display: none;
+		}
+		.clear-fix{
+			clear: both;
+		}
